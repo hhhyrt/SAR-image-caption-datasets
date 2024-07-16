@@ -1,0 +1,638 @@
+{
+    "dataset": "SAR",
+    "images": [
+        {
+            "sentids": [
+                8680,
+                8681,
+                8682,
+                8683,
+                8684
+            ],
+            "imgid": 1736,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "many",
+                        "ships",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There are many ships in the target area.",
+                    "imgid": 1736,
+                    "sentid": 8680
+                },
+                {
+                    "tokens": [
+                        "ships",
+                        "are",
+                        "the",
+                        "most",
+                        "obvious",
+                        "targets",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "Ships are the most obvious targets in the target area.",
+                    "imgid": 1736,
+                    "sentid": 8681
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "ships",
+                        "on",
+                        "the",
+                        "sea",
+                        "are",
+                        "scattered",
+                        "amongeach",
+                        "other"
+                    ],
+                    "raw": "The ships on the sea are scattered amongeach other",
+                    "imgid": 1736,
+                    "sentid": 8682
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "no",
+                        "obvious",
+                        "difference",
+                        "between",
+                        "ships",
+                        "on",
+                        "the",
+                        "sea"
+                    ],
+                    "raw": "There is no obvious difference between ships on the sea",
+                    "imgid": 1736,
+                    "sentid": 8683
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "many",
+                        "ships",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There are many ships in the target area.",
+                    "imgid": 1736,
+                    "sentid": 8684
+                }
+            ],
+            "split": "val",
+            "filename": "Gao_ship_hh_020170215800106013.jpg"
+        },
+        {
+            "sentids": [
+                9950,
+                9951,
+                9952,
+                9953,
+                9954
+            ],
+            "imgid": 1990,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "many",
+                        "building",
+                        "areas",
+                        "on",
+                        "the",
+                        "land"
+                    ],
+                    "raw": "There are many building areas on the land.",
+                    "imgid": 1990,
+                    "sentid": 9950
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "a",
+                        "major",
+                        "port",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is a major port in the target area.",
+                    "imgid": 1990,
+                    "sentid": 9951
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "land",
+                        "has",
+                        "a",
+                        "flat",
+                        "coastline"
+                    ],
+                    "raw": "The land has a flat coastline.",
+                    "imgid": 1990,
+                    "sentid": 9952
+                },
+                {
+                    "tokens": [
+                        "many",
+                        "ships",
+                        "are",
+                        "docked",
+                        "in",
+                        "the",
+                        "port"
+                    ],
+                    "raw": "Many ships are docked in the port.",
+                    "imgid": 1990,
+                    "sentid": 9953
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "port",
+                        "is",
+                        "connected",
+                        "with",
+                        "the",
+                        "land"
+                    ],
+                    "raw": "The port is connected with the land.",
+                    "imgid": 1990,
+                    "sentid": 9954
+                }
+            ],
+            "split": "train",
+            "filename": "Gao_ship_hh_020170309680208024.jpg"
+        },
+        {
+            "sentids": [
+                9955,
+                9956,
+                9957,
+                9958,
+                9959
+            ],
+            "imgid": 1991,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "many",
+                        "building",
+                        "areas",
+                        "scattered",
+                        "on",
+                        "the",
+                        "land"
+                    ],
+                    "raw": "There are many building areas scattered on the land.",
+                    "imgid": 1991,
+                    "sentid": 9955
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "a",
+                        "major",
+                        "port",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is a major port in the target area.",
+                    "imgid": 1991,
+                    "sentid": 9956
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "land",
+                        "has",
+                        "a",
+                        "flat",
+                        "coastline"
+                    ],
+                    "raw": "The land has a flat coastline.",
+                    "imgid": 1991,
+                    "sentid": 9957
+                },
+                {
+                    "tokens": [
+                        "many",
+                        "ships",
+                        "are",
+                        "docked",
+                        "in",
+                        "the",
+                        "port"
+                    ],
+                    "raw": "Many ships are docked in the port.",
+                    "imgid": 1991,
+                    "sentid": 9958
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "port",
+                        "is",
+                        "connected",
+                        "with",
+                        "the",
+                        "land"
+                    ],
+                    "raw": "The port is connected with the land.",
+                    "imgid": 1991,
+                    "sentid": 9959
+                }
+            ],
+            "split": "train",
+            "filename": "Gao_ship_hh_020170309680208025.jpg"
+        },
+        {
+            "sentids": [
+                9960,
+                9961,
+                9962,
+                9963,
+                9964
+            ],
+            "imgid": 1992,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "many",
+                        "building",
+                        "areas",
+                        "scattered",
+                        "on",
+                        "the",
+                        "land"
+                    ],
+                    "raw": "There are many building areas scattered on the land.",
+                    "imgid": 1992,
+                    "sentid": 9960
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "a",
+                        "major",
+                        "port",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is a major port in the target area.",
+                    "imgid": 1992,
+                    "sentid": 9961
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "land",
+                        "has",
+                        "a",
+                        "flat",
+                        "coastline"
+                    ],
+                    "raw": "The land has a flat coastline.",
+                    "imgid": 1992,
+                    "sentid": 9962
+                },
+                {
+                    "tokens": [
+                        "many",
+                        "ships",
+                        "are",
+                        "docked",
+                        "in",
+                        "the",
+                        "port"
+                    ],
+                    "raw": "Many ships are docked in the port.",
+                    "imgid": 1992,
+                    "sentid": 9963
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "port",
+                        "is",
+                        "connected",
+                        "with",
+                        "the",
+                        "land"
+                    ],
+                    "raw": "The port is connected with the land.",
+                    "imgid": 1992,
+                    "sentid": 9964
+                }
+            ],
+            "split": "train",
+            "filename": "Gao_ship_hh_020170309680208026.jpg"
+        },
+        {
+            "sentids": [
+                11060,
+                11061,
+                11062,
+                11063,
+                11064
+            ],
+            "imgid": 2212,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "only",
+                        "one",
+                        "ship",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is only one ship in the target area.",
+                    "imgid": 2212,
+                    "sentid": 11060
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "ship",
+                        "target",
+                        "on",
+                        "the",
+                        "sea",
+                        "is",
+                        "very",
+                        "vague"
+                    ],
+                    "raw": "The ship target on the sea is very vague.",
+                    "imgid": 2212,
+                    "sentid": 11061
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "a",
+                        "ship",
+                        "on",
+                        "the",
+                        "sea"
+                    ],
+                    "raw": "There is a ship on the sea.",
+                    "imgid": 2212,
+                    "sentid": 11062
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "a",
+                        "ship",
+                        "on",
+                        "the",
+                        "sea"
+                    ],
+                    "raw": "There is a ship on the sea.",
+                    "imgid": 2212,
+                    "sentid": 11063
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "a",
+                        "ship",
+                        "on",
+                        "the",
+                        "sea"
+                    ],
+                    "raw": "There is a ship on the sea.",
+                    "imgid": 2212,
+                    "sentid": 11064
+                }
+            ],
+            "split": "test",
+            "filename": "Gao_ship_hh_020170225460305021.jpg"
+        },
+        {
+            "sentids": [
+                1045,
+                1046,
+                1047,
+                1048,
+                1049
+            ],
+            "imgid": 209,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "only",
+                        "one",
+                        "ship",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is only one ship in the target area.",
+                    "imgid": 209,
+                    "sentid": 1045
+                },
+                {
+                    "tokens": [
+                        "ships",
+                        "are",
+                        "the",
+                        "most",
+                        "obvious",
+                        "targets",
+                        "in",
+                        "the",
+                        "whole",
+                        "sea",
+                        "area"
+                    ],
+                    "raw": "Ships are the most obvious targets in the whole sea area.",
+                    "imgid": 209,
+                    "sentid": 1046
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "only",
+                        "one",
+                        "ship",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is only one ship in the target area.",
+                    "imgid": 209,
+                    "sentid": 1047
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "only",
+                        "one",
+                        "ship",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is only one ship in the target area.",
+                    "imgid": 209,
+                    "sentid": 1048
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "is",
+                        "only",
+                        "one",
+                        "ship",
+                        "in",
+                        "the",
+                        "target",
+                        "area"
+                    ],
+                    "raw": "There is only one ship in the target area.",
+                    "imgid": 209,
+                    "sentid": 1049
+                }
+            ],
+            "split": "train",
+            "filename": "Gao_ship_hh_02017012974010805.jpg"
+        },
+        {
+            "sentids": [
+                395,
+                396,
+                397,
+                398,
+                399
+            ],
+            "imgid": 79,
+            "sentences": [
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "many",
+                        "ships",
+                        "on",
+                        "the",
+                        "sea"
+                    ],
+                    "raw": "There are many ships on the sea.",
+                    "imgid": 79,
+                    "sentid": 395
+                },
+                {
+                    "tokens": [
+                        "ships",
+                        "are",
+                        "the",
+                        "most",
+                        "obvious",
+                        "targets",
+                        "in",
+                        "the",
+                        "whole",
+                        "sea",
+                        "area"
+                    ],
+                    "raw": "Ships are the most obvious targets in the whole sea area.",
+                    "imgid": 79,
+                    "sentid": 396
+                },
+                {
+                    "tokens": [
+                        "there",
+                        "are",
+                        "differences",
+                        "in",
+                        "the",
+                        "shape",
+                        "of",
+                        "the",
+                        "ships"
+                    ],
+                    "raw": "There are differences in the shape of the ships.",
+                    "imgid": 79,
+                    "sentid": 397
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "ships",
+                        "on",
+                        "the",
+                        "sea",
+                        "are",
+                        "scattered",
+                        "among",
+                        "each",
+                        "other"
+                    ],
+                    "raw": "The ships on the sea are scattered among each other.",
+                    "imgid": 79,
+                    "sentid": 398
+                },
+                {
+                    "tokens": [
+                        "the",
+                        "boats",
+                        "were",
+                        "traveling",
+                        "in",
+                        "roughly",
+                        "the",
+                        "same",
+                        "direction"
+                    ],
+                    "raw": "The boats were traveling in roughly the same direction.",
+                    "imgid": 79,
+                    "sentid": 399
+                }
+            ],
+            "split": "test",
+            "filename": "Gao_ship_hh_02017010717020201.jpg"
+        }
+    ]
+}
